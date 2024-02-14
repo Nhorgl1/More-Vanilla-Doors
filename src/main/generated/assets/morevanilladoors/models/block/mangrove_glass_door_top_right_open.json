@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "morevanilladoors:block/mangrove_glass_door_bottom",
+    "top": "morevanilladoors:block/mangrove_glass_door_top"
+  }
+}
