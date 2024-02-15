@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.nhorgl.morevanillatrapdoors.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"ExampleMixin2"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "morevanilladoors:item/bamboo_glass_door"
-  }
-}

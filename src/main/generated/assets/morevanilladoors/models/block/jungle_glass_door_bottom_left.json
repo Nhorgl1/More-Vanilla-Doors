@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_bottom_left",
-  "textures": {
-    "bottom": "morevanilladoors:block/jungle_glass_door_bottom",
-    "top": "morevanilladoors:block/jungle_glass_door_top"
-  }
-}

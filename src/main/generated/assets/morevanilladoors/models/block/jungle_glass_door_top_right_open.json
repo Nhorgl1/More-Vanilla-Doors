@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/door_top_right_open",
-  "textures": {
-    "bottom": "morevanilladoors:block/jungle_glass_door_bottom",
-    "top": "morevanilladoors:block/jungle_glass_door_top"
-  }
-}

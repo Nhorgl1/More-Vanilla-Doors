@@ -1,9 +1,9 @@
 {
 	"schemaVersion": 1,
-	"id": "morevanilladoors",
+	"id": "morevanillatrapdoors",
 	"version": "${version}",
-	"name": "More Vanilla Doors",
-	"description": "This mod adds more Versions for Vanilla doors!",
+	"name": "More Vanilla Trapdoors",
+	"description": "This mod adds more Versions for Vanilla reapdoors!",
 	"authors": [
 		"Nhorgl"
 	],
@@ -12,21 +12,21 @@
 		"sources": ""
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/morevanilladoors/modicon.png",
+	"icon": "assets/morevanillatrapdoors/modicon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.nhorgl.morevanilladoors.MoreVanillaDoors"
+			"net.nhorgl.morevanillatrapdoors.MoreVanillaTrapdoors"
 		],
 		"client": [
-			"net.nhorgl.morevanilladoors.MoreVanillaDoorsClient"
+			"net.nhorgl.morevanillatrapdoors.MoreVanillaTrapdoorsClient"
 		],
 		"fabric-datagen": [
-			"net.nhorgl.morevanilladoors.MoreVanillaDoorsDataGenerator"
+			"net.nhorgl.morevanillatrapdoors.MoreVanillaTrapdoorsDataGenerator"
 		]
 	},
 	"mixins": [
-		"morevanilladoors.mixins.json"
+		"morevanillatrapdoors.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.15.6",
