@@ -38,6 +38,6 @@ public class MoreVanillaDoors implements ModInitializer {
 					entries.add(ModBlocks.CRIMSON_GLASS_DOOR);
 					entries.add(ModBlocks.WARPED_GLASS_DOOR);
 						}).build());
-		ModBlocks.registerModBlocks();
+			ModBlocks.registerModBlocks();
 	}
 }
